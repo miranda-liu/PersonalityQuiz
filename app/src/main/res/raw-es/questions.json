@@ -1,0 +1,43 @@
+[
+  {
+    "question": "¿Cuál es tu animal favorito?",
+    "answers":
+    {
+      "perro": 100,
+      "gato": 75,
+      "elefante": 50,
+      "delfín": 25
+    }
+  },
+
+  {
+    "question": "¿Cuál es tu color favorito?",
+    "answers":
+    {
+      "verde": 100,
+      "rosado": 75,
+      "azul": 50,
+      "negro": 25
+    }
+  },
+
+  {
+    "question": "¿A qué animal le tienes más miedo?",
+    "answers":
+    {
+      "bichos": 100,
+      "lobo": 75,
+      "oso": 50,
+      "tiburón": 25
+    }
+  },
+  {
+    "question": "¿Como celebras tu cumpleaños?",
+    "answers": {
+      "fiesta": 100,
+      "películas": 75,
+      "etiqueta": 50,
+      "Zona del Cielo": 25
+    }
+  }
+]

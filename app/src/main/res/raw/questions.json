@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is your favorite animal?",
+    "answers":
+    {
+      "dog": 100,
+      "cat": 75,
+      "elephant": 50,
+      "dolphin": 25
+    }
+  },
+
+  {
+    "question": "What is your favorite color?",
+    "answers":
+    {
+      "green": 100,
+      "pink": 75,
+      "blue": 50,
+      "black": 25
+    }
+  },
+
+  {
+    "question": "What animal are you most afraid of?",
+    "answers":
+    {
+      "bugs": 100,
+      "wolf": 75,
+      "bear": 50,
+      "shark": 25
+    }
+  },
+
+  {
+    "question": "How do you celebrate your birthday?",
+    "answers":
+    {
+      "party": 100,
+      "movies": 75,
+      "laser tag": 50,
+      "Sky Zone": 25
+    }
+  },
+
+  {
+    "question": "What is your favorite animal?",
+    "answers":
+    {
+      "dog": 100,
+      "cat": 75,
+      "elephant": 50,
+      "dolphin": 25
+    }
+  }
+
+]
